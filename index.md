@@ -1,3 +1,3 @@
-# Welcome to ocean.o
+# Welcome to ocean.oz
 ## this is one lonely sea.
-### If you see ocean.o, it works!
+### If you see this on ocean.oz, it works!
